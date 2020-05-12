@@ -1,3 +1,12 @@
+<h1>Todoey</h1>
+Todoey is single page web application developed with React, to help you with your daily tasks by maintaining a list of todo's.
+
+<h3>Preview
+![App preview](https://github.com/cyberlord-007/Todoey-react-app/blob/master/screenshot.PNG?raw=true)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
