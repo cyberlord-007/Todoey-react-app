@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: linear-gradient(to bottom right pink,red);
+}
+
+.header{
+  h1{
+    padding: 10px;
+    display: inline-block;
+  }
+  text-align: center;
+  color: white;
+  padding: 0.5rem;
+  background: purple;
+}
+.main-content{
+  text-align: center;
+  button{
+    margin-top: 20px;
+    padding: 5px 15px;
+    color: white;
+    background:lighten($color: red, $amount: 10);
+    border: none;
+    border-radius: 8px;
+  }
+}
+footer{
+  padding-top: 100vh;
+  text-align: center;
+  span{
+    font-weight: bold;
+  }
+}
+

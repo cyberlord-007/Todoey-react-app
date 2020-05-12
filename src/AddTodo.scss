@@ -1,0 +1,19 @@
+.add-todo{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    align-items: center;
+    input{
+        &:focus{
+            outline: none;
+        }
+        background: transparent;
+        width: 100%;
+        border: none;
+        padding: 5px;
+        font-size: 20px;
+        border-bottom: 2px solid purple;
+    }
+}
+
+
