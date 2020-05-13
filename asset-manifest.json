@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Todoey-react-app/static/css/main.a4a5bd43.chunk.css",
+    "main.js": "/Todoey-react-app/static/js/main.9d08dbba.chunk.js",
+    "main.js.map": "/Todoey-react-app/static/js/main.9d08dbba.chunk.js.map",
+    "runtime-main.js": "/Todoey-react-app/static/js/runtime-main.0e996ad9.js",
+    "runtime-main.js.map": "/Todoey-react-app/static/js/runtime-main.0e996ad9.js.map",
+    "static/js/2.699e9d9e.chunk.js": "/Todoey-react-app/static/js/2.699e9d9e.chunk.js",
+    "static/js/2.699e9d9e.chunk.js.map": "/Todoey-react-app/static/js/2.699e9d9e.chunk.js.map",
+    "index.html": "/Todoey-react-app/index.html",
+    "precache-manifest.55a04efb7079e1d2cd3a616c368c1341.js": "/Todoey-react-app/precache-manifest.55a04efb7079e1d2cd3a616c368c1341.js",
+    "service-worker.js": "/Todoey-react-app/service-worker.js",
+    "static/css/main.a4a5bd43.chunk.css.map": "/Todoey-react-app/static/css/main.a4a5bd43.chunk.css.map",
+    "static/js/2.699e9d9e.chunk.js.LICENSE.txt": "/Todoey-react-app/static/js/2.699e9d9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e996ad9.js",
+    "static/js/2.699e9d9e.chunk.js",
+    "static/css/main.a4a5bd43.chunk.css",
+    "static/js/main.9d08dbba.chunk.js"
+  ]
+}
